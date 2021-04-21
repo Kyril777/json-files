@@ -1,0 +1,143 @@
+[
+	{
+		"id": 1,
+		"title": [{
+			"ukTitle": "The Happy Return",
+			"usTitle": ""Beat to Quarters
+		}],
+		"publicationDate": "02-04-1937",
+		storyDates: [{
+			"beginning": "06-01-1808",
+			"ending": "12-01-1808"
+		}]
+	},
+	{
+		"id": 2,
+		"title": [{
+			"ukTitle": "A Ship of the Line",
+			"usTitle": "Ship of the Line"
+		}],
+		"publicationDate": "04-04-1938",
+		storyDates: [{
+			"beginning": "04-01-1810",
+			"ending": "11-01-1810"
+		}]
+	},
+	{
+		"id": 3,
+		"title": [{
+			"ukTitle": "Flying Colours",
+			"usTitle": "Flying Colours"
+		}],
+		"publicationDate": "11-01-1938",
+		storyDates: [{
+			"beginning": "12-01-1810",
+			"ending": "06-01-1811"
+		}]
+	},
+	{
+		"id": 4,
+		"title": [{
+			"ukTitle": "The Commodore",
+			"usTitle": "Commodore Hornblower"
+		}],
+		"publicationDate": "03-12-1945",
+		storyDates: [{
+			"beginning": "04-01-1812",
+			"ending": "12-01-1812"
+		}]
+	},
+	{
+		"id": 5,
+		"title": [{
+			"ukTitle": "Lord Hornblower",
+			"usTitle": "Lord Hornblower"
+		}],
+		"publicationDate": "06-11-1946",
+		storyDates: [{
+			"beginning": "08-01-1813",
+			"ending": "07-01-1815"
+		}]
+	},
+	{
+		"id": 6,
+		"title": [{
+			"ukTitle": "Mr. Midshipman Hornblower",
+			"usTitle": "Mr. Midshipman Hornblower"
+		}],
+		"publicationDate": "05-22-1950",
+		storyDates: [{
+			"beginning": "01-01-1794",
+			"ending": "02-01-1799"
+		}]
+	},
+	{
+		"id": 7,
+		"title": [{
+			"ukTitle": "Lieutenant Hornblower",
+			"usTitle": "Lieutenant Hornblower"
+		}],
+		"publicationDate": "02-11-1952",
+		storyDates: [{
+			"beginning": "08-01-1800",
+			"ending": "03-01-1803"
+		}]
+	},
+	{
+		"id": 8,
+		"title": [{
+			"ukTitle": "Hornblower and the Atropos",
+			"usTitle": "Hornblower and the Atropos"
+		}],
+		"publicationDate": "11-09-1953",
+		storyDates: [{
+			"beginning": "12-01-1805",
+			"ending": "09-01-1806"
+		}]
+	},
+	{
+		"id": 9,
+		"title": [{
+			"ukTitle": "Hornblower in the West Indies",
+			"usTitle": "Armiral Hornblower in the West Indies"
+		}],
+		"publicationDate": "09-29-1958",
+		storyDates: [{
+			"beginning": "05-01-1821",
+			"ending": "07-01-1823"
+		}]
+	},
+	{
+		"id": 10,
+		"title": [{
+			"ukTitle": "Hornblower and the Hotspur",
+			"usTitle": "Hornblower and the Hotspur"
+		}],
+		"publicationDate": "07-26-1962",
+		storyDates: [{
+			"beginning": "04-01-1803",
+			"ending": "05-01-1805"
+		}]
+	}
+]
+
+
+
+
+
+
+[
+	{
+		"id": ,
+		"title": [{
+			"ukTitle": "",
+			"usTitle": ""
+		}],
+		"publicationDate": "",
+		storyDates: [{
+			"beginning": "",
+			"ending": ""
+		}]
+	}
+
+]
