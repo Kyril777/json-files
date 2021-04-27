@@ -120,24 +120,3 @@
 		}]
 	}
 ]
-
-
-
-
-
-
-[
-	{
-		"id": ,
-		"title": [{
-			"ukTitle": "",
-			"usTitle": ""
-		}],
-		"publicationDate": "",
-		storyDates: [{
-			"beginning": "",
-			"ending": ""
-		}]
-	}
-
-]
