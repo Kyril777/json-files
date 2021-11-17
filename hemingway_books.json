@@ -1,0 +1,68 @@
+[
+	{
+		"id": 1,
+		"title": "the Torrents of Spring",
+		"publicationYear": "1926",
+		"type": "novella"
+	},
+	{
+		"id": 2,
+		"title": "the Sun Also Rises",
+		"publicationYear": "1926",
+		"type": "novel"
+	{
+	},
+		"id": 3,
+		"title": "A Farewell to Arms",
+		"publicationYear": "1929",
+		"type": "novel"
+	},
+	{
+		"id": 4,
+		"title": "To Have and Have Not",
+		"publicationYear": "1937",
+		"type": "novel",
+	},
+	{
+		"id": 5,
+		"title": "For Whom the Bell Tolls",
+		"publicationYear": "1940",
+		"type": "novel",
+	},
+	{
+		"id": 6,
+		"title": "Across the River and Into the Trees",
+		"publicationYear": "1950",
+		"type": "novel",
+	},
+	{
+		"id": 7,
+		"title": "the Old Man and the Sea",
+		"publicationYear": "1952",
+		"type": "novella",
+	},
+	{
+		"id": 8,
+		"title": "Islands in the Stream",
+		"publicationYear": "1970",
+		"type": "novel",
+	},
+	{
+		"id": 9,
+		"title": "the Garden of Eden",
+		"publicationYear": "1986",
+		"type": "novel",
+	},
+	{
+		"id": 10,
+		"title": "Death in the Afternoon",
+		"publicationYear": "1932",
+		"type": "non-fiction",
+	},
+	{
+		"id": 11,
+		"title": "Green Hills of Africa",
+		"publicationYear": "1935",
+		"type": "non-fiction",
+	}
+]
