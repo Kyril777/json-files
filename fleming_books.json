@@ -1,0 +1,86 @@
+[
+	{
+		"id": 1,
+		"title": "Casino Royale",
+		"publicationYear": "1953",
+		"type": "novel"
+	},
+	{
+		"id": 2,
+		"title": "Live and Let Die",
+		"publicationYear": "1954",
+		"type": "novel"
+	{
+	},
+		"id": 3,
+		"title": "Moonraker",
+		"publicationYear": "1955",
+		"type": "novel"
+	},
+	{
+		"id": 4,
+		"title": "Diamonds are Forever",
+		"publicationYear": "1956",
+		"type": "novel",
+	},
+	{
+		"id": 5,
+		"title": "For Russia, With Love",
+		"publicationYear": "1957",
+		"type": "novel",
+	},
+	{
+		"id": 6,
+		"title": "Dr. No",
+		"publicationYear": "1958",
+		"type": "novel",
+	},
+	{
+		"id": 7,
+		"title": "Goldfinger",
+		"publicationYear": "1959",
+		"type": "novel",
+	},
+	{
+		"id": 8,
+		"title": "For Your Eyes Only",
+		"publicationYear": "1960",
+		"type": "short story collection",
+	},
+	{
+		"id": 9,
+		"title": "Thunderball",
+		"publicationYear": "1961",
+		"type": "novel",
+	},
+	{
+		"id": 10,
+		"title": "The Spy Who Loved Me",
+		"publicationYear": "1962",
+		"type": "novel",
+	},
+	{
+		"id": 11,
+		"title": "On Her Majesty's Secret Service",
+		"publicationYear": "1963",
+		"type": "novel",
+	},
+	{
+		"id": 12,
+		"title": "You Only Live Twice",
+		"publicationYear": "1964",
+		"type": "novel",
+	},
+	{
+		"id": 13,
+		"title": "The Man With the Golden Gun",
+		"publicationYear": "1965",
+		"type": "novel",
+	},
+	{
+		"id": 14,
+		"title": "Octopussy and the Living Daylights",
+		"publicationYear": "1966",
+		"type": "short story collection",
+	}
+]
